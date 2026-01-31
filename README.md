@@ -31,11 +31,11 @@ The dataset used is `Walmart_Sales.csv`, which contains historical sales data fo
 
 ## Business Questions Answered
 
-> 1. Which year had the highest sales?
-> 2. How was the weather during the year of the highest sales?
-> 3. Does weather have a significant impact on sales?
-> 4. Do sales rise near the holiday season every year?
-> 5. What is the relationship between sales and macroeconomic variables (Fuel Price, CPI, Unemployment)?
+1. Which year had the highest sales?
+2. How was the weather during the year of the highest sales?
+3. Does weather have a significant impact on sales?
+4. Do sales rise near the holiday season every year?
+5. What is the relationship between sales and macroeconomic variables (Fuel Price, CPI, Unemployment)?
 
 ## How to Run the Analysis
 
