@@ -1,4 +1,7 @@
 # Walmart Sales Data Analysis (SQL)
+
+![inbox_16192307_cffdbe90e777479a7cfca50b15a20f4e_Walmart5-scaled-1](https://github.com/user-attachments/assets/9fee1f8a-d98f-4565-8f32-42df0e63e147)
+
 ## Project Overview
 
 This project involves building a retail analysis database to investigate sales performance for Walmart. By leveraging SQL, I analyzed a dataset of **6,435 entries** to identify top-performing years, the impact of weather on consumer behavior, and how macroeconomic variables like unemployment and inflation (CPI) correlate with weekly sales.
